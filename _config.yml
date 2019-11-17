@@ -1,25 +1,25 @@
 # Site settings
-title: KuzeSS Blog
-SEOTitle: KuzeSS的博客 | KuzeSS Blog
+title: Relax Blog
+SEOTitle: Relax的博客 | Relax Blog
 header-img: img/post-bg-desk.jpg
-email: g.stevenshi@gmail.com
+email: 534363876@qq.com
 description: "Passion is everything."
-keyword: "KuzeSS, KuzeSS Blog, KuzeSS的博客"
-url: "https://kuzess.github.io/"          # your host, for absolute URL
+keyword: "Relax, Relax Blog, Relax的博客"
+url: "https://zhengyi70.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/KuzeSS/kuzess.github.io.git" # you code repository
+github_repo: "https://github.com/zhengyi70/zhengyi70.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "节制||缄默||秩序||决心||节俭||勤勉||真诚||正义||中庸||整洁||平静||贞洁||谦逊"
-sidebar-avatar: /img/about-KuzeSS.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-Relax.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-github_username:    KuzeSS
-twitter_username:   KuzeSS
+github_username:    zhengyi70
+twitter_username:   zhengyi70
 
 
 
@@ -53,16 +53,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: KuzeSS
+# disqus_username: zhengyi70
 
 # Gitalk
 #gitalk:
 #  enable: true    #是否开启Gitalk评论
 #  clientID: ?                           #生成的clientID
 #  clientSecret: ?   #生成的clientSecret
-#  repo: KuzeSS.github.io    #仓库名称
-#  owner: KuzeSS    #github用户名
-#  admin: KuzeSS
+#  repo: zhengyi70.github.io    #仓库名称
+#  owner: zhengyi70    #github用户名
+#  admin: zhengyi70
 #  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
